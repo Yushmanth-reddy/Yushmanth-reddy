@@ -1,3 +1,8 @@
+<h1 align="center">Hi 👋, I'm Yushmanth</h1>
+<h3 align="center">A passionate Mern stack Developer and Open Source contributor from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yushmanth-reddy&label=Profile%20views&color=0e75b6&style=flat" alt="yushmanth-reddy" /> </p>
+
 # 💫 About Me:
 🌱 I’m currently learning **kubernetes and docker**<br>- 📫 How to reach me **yushmanthponnolu@gmail.com**<br>- 📄 Know about my experiences [https://drive.google.com/file/d/1GiU0Ox-vW6Sa5C_phdS-WKtsQKahvw7d/view?usp=sharing](https://drive.google.com/file/d/1GiU0Ox-vW6Sa5C_phdS-WKtsQKahvw7d/view?usp=sharing)
 
